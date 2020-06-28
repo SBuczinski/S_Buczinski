@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professeur titulaire clinique ambulatoire bovine
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Faculté de médecine vétérinaire de l'Université de Montréal
+  url: "https://fmv.umontreal.ca/faculte/departements/sciences-cliniques/corps-professoral/fiche/in/in14971/sg/S%C3%A9bastien%20Buczinski/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Vétérinaire plus spécialement intéressé à la médecine des ruminants, ma recherche s'oriente sur la santé des jeunes bovins, les maladies respiratoires bovines, les tests diagnostiques utilisables en clinique (et notamment en l'absence de test de référence) et la médecine vétérinaire factuelle.

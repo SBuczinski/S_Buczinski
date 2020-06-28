@@ -17,11 +17,11 @@ subtitle = ""
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  name = "Utilisation de R"
+  description = "20%"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "suse"
   icon_pack = "fas"
   name = "Statistics"
   description = "100%"  
